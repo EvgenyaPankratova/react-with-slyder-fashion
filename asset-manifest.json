@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-with-slyder-fashion/static/css/main.8460616c.css",
+    "main.js": "/react-with-slyder-fashion/static/js/main.115882c2.js",
+    "static/media/julia.png": "/react-with-slyder-fashion/static/media/julia.ba7b4a9c3ea0b2f6f690.png",
+    "static/media/4.png": "/react-with-slyder-fashion/static/media/4.4951d516fad65540bd09.png",
+    "static/media/flower.png": "/react-with-slyder-fashion/static/media/flower.4536dcd6ceab4e5797ff.png",
+    "static/media/taisiia.png": "/react-with-slyder-fashion/static/media/taisiia.5f6bd46caf6d99b7dc64.png",
+    "static/media/3.png": "/react-with-slyder-fashion/static/media/3.1246ad357d6e1323140a.png",
+    "static/media/5.png": "/react-with-slyder-fashion/static/media/5.ee58d57f0db36e07e726.png",
+    "static/media/6.png": "/react-with-slyder-fashion/static/media/6.769f7df3463c743e17aa.png",
+    "static/media/1.png": "/react-with-slyder-fashion/static/media/1.6acbc10df4c7edc18b31.png",
+    "static/media/7.png": "/react-with-slyder-fashion/static/media/7.73fbd082ff57dd6fa319.png",
+    "static/media/2.png": "/react-with-slyder-fashion/static/media/2.73f1a7be7a1277764c33.png",
+    "static/media/dress.png": "/react-with-slyder-fashion/static/media/dress.5ed9c4a663dbc9684e40.png",
+    "static/media/8.png": "/react-with-slyder-fashion/static/media/8.6d17b083131957953c42.png",
+    "static/media/Mint Type - Orchidea Pro Medium.otf": "/react-with-slyder-fashion/static/media/Mint Type - Orchidea Pro Medium.39ec72ce6a2d24dc1a2a.otf",
+    "static/media/Mint Type - Orchidea Pro Medium Italic.otf": "/react-with-slyder-fashion/static/media/Mint Type - Orchidea Pro Medium Italic.d136e726784f419b396a.otf",
+    "static/media/slick.svg": "/react-with-slyder-fashion/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-with-slyder-fashion/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-with-slyder-fashion/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-with-slyder-fashion/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-with-slyder-fashion/index.html",
+    "main.8460616c.css.map": "/react-with-slyder-fashion/static/css/main.8460616c.css.map",
+    "main.115882c2.js.map": "/react-with-slyder-fashion/static/js/main.115882c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8460616c.css",
+    "static/js/main.115882c2.js"
+  ]
+}
