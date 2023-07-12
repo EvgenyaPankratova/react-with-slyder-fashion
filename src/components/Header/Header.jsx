@@ -4,7 +4,11 @@ import { BsTelephone } from "react-icons/bs";
 import { useState } from "react";
 
 const Header = () => {
-  const [telIsVisible, setTelIsVisible] = useState(false);
+  const [telIsVisible, setTelIsVisible] = useState('block');
+
+  const telToggler = () => {
+    telIsVisible === 'block' ? setTelIsVisible('none') : setTelIsVisible('block');
+    }
 
   return (
     <header className={styles.header}>
@@ -15,16 +19,16 @@ const Header = () => {
 
         <div
           className={styles.nav__tel}
-          style={{ display: telIsVisible ? "block" : "none" }}
-          onClick={() => setTelIsVisible(!telIsVisible)}
+          style={{display: `${telIsVisible}`}}
+          // onClick={telToggler}
         >
           +7 (495) 495-49-54
         </div>
         <BsTelephone
           className={styles.nav__tel_icon}
           size="1.3rem"
-          style={{ display: telIsVisible ? "none" : "block" }}
-          onClick={() => setTelIsVisible(!telIsVisible)}
+          style={{display: `${!telIsVisible}`}}
+          onClick={telToggler}
         />
       </nav>
     </header>
